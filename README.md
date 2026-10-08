@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed GmaeeY 👋
+# Hi, I'm AhmeD GmaeeY 👋
 
 🎬 Film & TV Director turned Software Developer
 💻 Building desktop apps, mobile apps & backend systems
