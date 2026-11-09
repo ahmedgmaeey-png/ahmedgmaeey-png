@@ -21,18 +21,12 @@
 - **Languages:** C#, JavaScript, HTML/CSS
 - **Desktop:** .NET 8, WPF
 - **Mobile:** Cross-platform frameworks
-- **Backend:** Cloudflare Workers, D1
-- **AI:** ONNX Runtime, LLM APIs
-
----
 
 ## Background
 
 - 17+ years in Film & TV Direction
 - Building software with a director's eye for detail & UX
 - Learning fast. Shipping real code.
-
----
 
 ## Contact
 
